@@ -18,10 +18,18 @@ VSumPtrGAN a GAN-based training framework, which combines the merits of unsuperv
 <img src='imgs/stat.png' width='45%' />
 
 ## Requirements
+This code is implemented under **Python3** and [PyTorch](https://pytorch.org).
+Following libraries are also required:
++ [PyTorch](https://pytorch.org) >= 0.4
++ [FFmpeg](https://www.ffmpeg.org)
 
 ## Usage
 
 ## Resources
++ [SumMe Dataset](https://gyglim.github.io/me/vsum/index.html)
++ [TVSum Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=72)
++ [YouTube Dataset](https://sites.google.com/site/vsummsite/download)
++ [LoL Dataset](https://github.com/chengyangfu/Pytorch-Twitch-LOL)
 
 ## Citation
 ```
@@ -34,3 +42,5 @@ VSumPtrGAN a GAN-based training framework, which combines the merits of unsuperv
 ```
 
 ## Acknowledgement
++ [Umbo Computer Vision](https://umbocv.ai)
++ [pytorch_seq-gan](https://github.com/suragnair/seqGAN)
