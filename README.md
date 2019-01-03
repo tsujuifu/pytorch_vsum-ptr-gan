@@ -6,9 +6,9 @@ A PyTorch implementation of VSumPtrGAN
 <img src='imgs/result.png' width='60%' />
 
 ## Overview
-VSumPtrGAN is an implementation of 
-"Attentive and Adversarial Learning for Video Summarization" 
-Tsu-Jui Fu, Shao-Heng Tai, and Hwann-Tzong Chen
+VSumPtrGAN is an implementation of <br>
+"Attentive and Adversarial Learning for Video Summarization" <br>
+Tsu-Jui Fu, Shao-Heng Tai, and Hwann-Tzong Chen <br>
 in IEEE Winter Conference on Applications of Computer Vision (WACV) 2019
 
 <img src='imgs/overview.png' width='70%' />
