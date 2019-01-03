@@ -18,7 +18,7 @@ VSumPtrGAN a GAN-based training framework, which combines the merits of unsuperv
 <img src='imgs/stat.png' width='45%' />
 
 ## Requirements
-This code is implemented under **Python3** and [PyTorch](https://pytorch.org).
+This code is implemented under **Python3** and [PyTorch](https://pytorch.org). <br>
 Following libraries are also required:
 + [PyTorch](https://pytorch.org) >= 0.4
 + [FFmpeg](https://www.ffmpeg.org)
