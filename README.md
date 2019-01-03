@@ -13,6 +13,8 @@ in IEEE Winter Conference on Applications of Computer Vision (WACV) 2019
 
 <img src='imgs/overview.png' width='70%' />
 
+VSumPtrGAN a GAN-based training framework, which combines the merits of unsupervised and supervised video summarization approaches. The **generator is an attention-aware Ptr-Net** that generates the cutting points of summarization fragments. The **discriminator is a 3D CNN classifier** to judge whether a fragment is from a ground-truth or a generated summarization. Our Ptr-Net generator can **overcome the unbalanced training-test length** in the seq2seq problem, and our discriminator is effective in **leveraging unpaired summarizations** to achieve better performance.
+
 ## Requirements
 
 ## Usage
