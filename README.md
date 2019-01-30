@@ -31,6 +31,8 @@ Following libraries are also required:
 + [YouTube Dataset](https://sites.google.com/site/vsummsite/download)
 + [LoL Dataset](https://github.com/chengyangfu/Pytorch-Twitch-LOL)
 
++ [Preprocessed YouTube Dataset](https://drive.google.com/drive/folders/1LXMVZyLjFNkotTmboukQU8iIHoeKyDA-?usp=sharing)
+
 ## Citation
 ```
 @inproceedings{fu2019vsum-ptr-gan, 
