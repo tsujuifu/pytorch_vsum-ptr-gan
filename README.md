@@ -29,7 +29,7 @@ Following libraries are also required:
 Dataset/model_visual-extractor.ipynb
 ```
 
-+ Model
++ VSunPtrGAN
 ```
 model_vsum-ptr-gan.ipynb
 ```
