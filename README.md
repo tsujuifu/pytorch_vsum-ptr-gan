@@ -24,6 +24,15 @@ Following libraries are also required:
 + [FFmpeg](https://www.ffmpeg.org)
 
 ## Usage
++ VisualExtractor
+```
+Dataset/model_visual-extractor.ipynb
+```
+
++ Model
+```
+model_vsum-ptr-gan.ipynb
+```
 
 ## Resources
 + [SumMe Dataset](https://gyglim.github.io/me/vsum/index.html)
