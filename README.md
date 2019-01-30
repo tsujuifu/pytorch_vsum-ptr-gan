@@ -28,9 +28,8 @@ Following libraries are also required:
 ## Resources
 + [SumMe Dataset](https://gyglim.github.io/me/vsum/index.html)
 + [TVSum Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=72)
-+ [YouTube Dataset](https://sites.google.com/site/vsummsite/download)
++ [YouTube Dataset](https://sites.google.com/site/vsummsite/download) ([Preprocessed](https://drive.google.com/drive/folders/1LXMVZyLjFNkotTmboukQU8iIHoeKyDA-?usp=sharing))
 + [LoL Dataset](https://github.com/chengyangfu/Pytorch-Twitch-LOL)
-+ [Preprocessed YouTube Dataset](https://drive.google.com/drive/folders/1LXMVZyLjFNkotTmboukQU8iIHoeKyDA-?usp=sharing)
 
 ## Citation
 ```
