@@ -1,4 +1,4 @@
-# [WACV'19 (oral)] Attentive and Adversarial Learning for Video Summarization
+# [WACV'19 (Oral)] Attentive and Adversarial Learning for Video Summarization
 A **PyTorch** implementation of VSumPtrGAN
 
 [Paper](https://tsujuifu.github.io/pubs/wacv19_vsum-ptr-gan.pdf) | [Video](https://youtu.be/0irqOrpAYgw)
