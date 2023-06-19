@@ -44,7 +44,7 @@ model_vsum-ptr-gan.ipynb
 ```
 @inproceedings{fu2019vsum-ptr-gan, 
   author = {Tsu-Jui Fu and Shao-Heng Tai and Hwann-Tzong Chen}, 
-  title = {Attentive and Adversarial Learning for Video Summarization}, 
+  title = {{Attentive and Adversarial Learning for Video Summarization}}, 
   booktitle = {IEEE Winter Conference on Applications of Computer Vision (WACV)}, 
   year = {2019} 
 }
