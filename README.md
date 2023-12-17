@@ -8,7 +8,7 @@ A **PyTorch** implementation of VSumPtrGAN
 ## Overview
 VSumPtrGAN is an implementation of <br>
 "[Attentive and Adversarial Learning for Video Summarization](https://tsujuifu.github.io/pubs/wacv19_vsum-ptr-gan.pdf)" <br>
-[Tsu-Jui Fu](https://tsujuifu.github.io/), Shao-Heng Tai, and [Hwann-Tzong Chen](http://www.cs.nthu.edu.tw/~htchen/) <br>
+[Tsu-Jui Fu](https://scholar.google.com/citations?user=7QRDcC0AAAAJ), [Shao-Heng Tai](https://dblp.org/pid/214/6528), and [Hwann-Tzong Chen](https://scholar.google.com/citations?user=mwFy9kkAAAAJ) <br>
 in IEEE Winter Conference on Applications of Computer Vision (**WACV**) 2019 (Oral)
 
 <img src='imgs/overview.png' width='70%' />
